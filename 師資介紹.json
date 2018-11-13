@@ -1,0 +1,193 @@
+[
+    {
+        "channel": {
+            "title": "師資介紹",
+            "link": "cvList",
+            "description": "",
+            "items": [
+                {
+                    
+                    "name": "戴任詔",
+                    "title": "副教授兼系所主任",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%88%B4%E4%BB%BB%E8%A9%94.png",
+                    "description": ""
+                },
+                {
+                    "index": 2,
+                    "name": "林啟瑞",
+                    "title": "教授兼校長",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%9E%97%E5%95%9F%E7%91%9E.png",
+                    "description": ""
+                },
+                {
+                    "index": 3,
+                    "name": "楊永光",
+                    "title": "教授(榮退)",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%A5%8A%E6%B0%B8%E5%85%89.png",
+                    "description": ""
+                },
+                {
+                    "index": 4,
+                    "name": "杜鳳棋",
+                    "title": "教授兼管理學院院長",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%9D%9C%E9%B3%B3%E6%A3%8B.png",
+                    "description": ""
+                },
+                {
+                    "index": 5,
+                    "name": "謝金源",
+                    "title": "教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E8%AC%9D%E9%87%91%E6%BA%90.png",
+                    "description": ""
+                },
+                {
+                    "index": 6,
+                    "name": "曾重誌",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%9B%BE%E9%87%8D%E8%AA%8C.png",
+                    "description": ""
+                },
+                {
+                    "index": 7,
+                    "name": "王進安",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E7%8E%8B%E9%80%B2%E5%AE%89.png",
+                    "description": ""
+                },
+                {
+                    "index": 8,
+                    "name": "傅公良",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E5%82%85%E5%85%AC%E8%89%AF.png",
+                    "description": ""
+                },
+                {
+                    "index": 9,
+                    "name": "王明忠",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E7%8E%8B%E6%98%8E%E5%BF%A0.png",
+                    "description": ""
+                },
+                {
+                    "index": 10,
+                    "name": "林礽昌",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%9E%97%E7%A4%BD%E6%98%8C.png",
+                    "description": ""
+                },
+                {
+                    "index": 11,
+                    "name": "呂鴻猷",
+                    "title": "副教授兼主任秘書",
+                    "photo": "http://miki.ypcloud.com/cvImg/呂鴻猷.png",
+                    "description": ""
+                },
+                {
+                    "index": 12,
+                    "name": "蔡新春",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E8%94%A1%E6%96%B0%E6%98%A5.png",
+                    "description": ""
+                },
+                {
+                    "index": 13,
+                    "name": "曾賢壎",
+                    "title": "副教授(榮退)",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%9B%BE%E8%B3%A2%E5%A3%8E.png",
+                    "description": ""
+                },
+                {
+                    "index": 14,
+                    "name": "廖信德",
+                    "title": "副教授兼國際長",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E5%BB%96%E4%BF%A1%E5%BE%B7.png",
+                    "description": ""
+                },
+                {
+                    "index": 15,
+                    "name": "王派祥",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E7%8E%8B%E6%B4%BE%E7%A5%A5.png",
+                    "description": ""
+                },
+                {
+                    "index": 16,
+                    "name": "任復華",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E4%BB%BB%E5%BE%A9%E8%8F%AF.png",
+                    "description": ""
+                },
+                {
+                    "index": 17,
+                    "name": "張國平",
+                    "title": "副教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E5%BC%B5%E5%9C%8B%E5%B9%B3.png",
+                    "description": ""
+                },
+                {
+                    "index": 18,
+                    "name": "謝秉澂",
+                    "title": "助理教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E8%AC%9D%E7%A7%89%E6%BE%82.png",
+                    "description": ""
+                },
+                {
+                    "index": 19,
+                    "name": "李育佐",
+                    "title": "助理教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%9D%8E%E8%82%B2%E4%BD%90.png",
+                    "description": ""
+                },
+                {
+                    "index": 20,
+                    "name": "陳子夏",
+                    "title": "助理教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E9%99%B3%E5%AD%90%E5%A4%8F.png",
+                    "description": ""
+                },
+                {
+                    "index": 21,
+                    "name": "王柏東",
+                    "title": "助理教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E7%8E%8B%E6%9F%8F%E6%9D%B1.png",
+                    "description": ""
+                },
+                {
+                    "index": 22,
+                    "name": "梁若暉",
+                    "title": "助理教授兼副國際長",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%A2%81%E8%8B%A5%E6%9A%89.png",
+                    "description": ""
+                },
+                {
+                    "index": 23,
+                    "name": "溫炯亮",
+                    "title": "助理教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%BA%AB%E7%82%AF%E4%BA%AE.png",
+                    "description": ""
+                },
+                {
+                    "index": 24,
+                    "name": "楊榮泰",
+                    "title": "助理教授",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E6%A5%8A%E6%A6%AE%E6%B3%B0.png",
+                    "description": ""
+                },
+                {
+                    "index": 25,
+                    "name": "郭大榮",
+                    "title": "技士",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E9%83%AD%E5%A4%A7%E6%A6%AE.png",
+                    "description": ""
+                },
+                {
+                    "index": 26,
+                    "name": "黃淑芳",
+                    "title": "組員",
+                    "photo": "http://miki.ypcloud.com/cvImg/%E9%BB%83%E6%B7%91%E8%8A%B3.png",
+                    "description": ""
+                }
+            ]
+        }
+    }
+]
